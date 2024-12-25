@@ -36,3 +36,7 @@ The project is created with:
 4. Click the "Submit Guess" button.
 5. The game will provide feedback and update your score.
 6. The next emoji will be displayed after a short delay, whether your guess was correct or not.
+
+## Screenshot
+
+![Emoji Guessing Game Screenshot](assets/Guess%20Emoji.jpeg)
